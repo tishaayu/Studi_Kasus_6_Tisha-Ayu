@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Gula",
+        "stok": "432"
+    },
+    {
+        "nama": "Tepung",
+        "stok": "123"
+    },
+    {
+        "nama": "Telur",
+        "stok": "76"
+    },
+    {
+        "nama": "Selai",
+        "stok": "325"
+    },
+    {
+        "nama": "Roti",
+        "stok": "63"
+    },
+    {
+        "nama": "Beras",
+        "stok": "236"
+    },
+    {
+        "nama": "Soda",
+        "stok": 123
+    }
+]
